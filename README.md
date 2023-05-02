@@ -1,2 +1,27 @@
 # IPL-2023-Win-Prediction
-In this project, I aimed to predict the outcomes of Indian Premier League (IPL) 2023 cricket matches using historical data from the 2022 season. To achieve this, I built a machine learning model that attempted to learn from past match information to predict future outcomes. However, I faced some challenges due to the limited size of the dataset, which contained only 70 rows of data. This small dataset hindered the model's ability to learn effectively and generalize well to new, unseen data. As a result, the model's performance was not satisfactory. To address this issue, I have decided to start a new analysis using a larger dataset, covering the seasons from 2008 to 2022. This will provide more information for the model to learn from and potentially improve its predictive accuracy.
+**Description**
+This project aims to predict the outcome of Indian Premier League (IPL) cricket matches using historical match data and machine learning techniques. The goal is to create an accurate and reliable model that can provide insights into the factors affecting the success of each team and assist fans, analysts, and team management in making informed decisions.
+
+**Key Features**
+Analysis of historical IPL match data from 2008 to 2021.
+Preprocessing and feature engineering to extract relevant features for match prediction.
+Implementation of various machine learning algorithms and evaluation of their performance.
+Detailed performance metrics for each team, including accuracy, precision, recall, and F1 score.
+Technologies Used
+- Python
+- Pandas
+- Scikit-learn
+- Matplotlib
+
+**Usage**
+
+This project can be used by cricket enthusiasts, analysts, and team management to gain insights into match outcomes and team performance. By understanding the factors affecting match results, they can make better decisions and improve their strategies.
+
+**Getting Started**
+1. Clone the repository or download the project files.
+2. Install the required Python libraries and dependencies.
+3. Run the Jupyter Notebook to explore the data, preprocess it, and train the machine learning models.
+4. Evaluate the performance of the models and analyze the results.
+
+**Contributing**
+Feel free to contribute to this project by submitting pull requests or opening issues to report bugs and suggest improvements. Your feedback and contributions are highly appreciated.
